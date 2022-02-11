@@ -1,0 +1,36 @@
+{
+    "name": "@zerocluster/httpbin",
+    "version": "0.0.0",
+    "private": true,
+    "description": "HTTP test service",
+    "keywords": [
+        "httpbin"
+    ],
+    "homepage": "https://github.com/zerocluster/httpbin",
+    "bugs": {
+        "url": "https://github.com/zerocluster/httpbin/issues",
+        "email": "zdm@softvisio.net"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zerocluster/httpbin.git"
+    },
+    "license": "ISC",
+    "author": "zdm <zdm@softvisio.net>",
+    "type": "module",
+    "imports": {
+        "#core/*": "@softvisio/core/*",
+        "#lib/*": "./lib/*.js",
+        "#resources/*": "./resources/*"
+    },
+    "scripts": {
+        "dev": "node bin/main.js --mode=development",
+        "main": "node bin/main.js"
+    },
+    "dependencies": {
+        "@softvisio/core": "^6.0.0"
+    },
+    "packages": [
+        "app"
+    ]
+}
