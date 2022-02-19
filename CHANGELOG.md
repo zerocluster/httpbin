@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.0 (2022-02-19)
+
+Features:
+
+-   feat: headers
+
 ### 1.0.3 (2022-02-19)
 
 Fixes:
