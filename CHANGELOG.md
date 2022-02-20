@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.1 (2022-02-20)
+
+Fixes:
+
+-   fix: content type added
+
 ### 1.1.0 (2022-02-19)
 
 Features:
