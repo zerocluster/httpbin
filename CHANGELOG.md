@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.2 (2022-02-21)
+
+Fixes:
+
+-   fix: metadata update
+
 ### 1.1.1 (2022-02-20)
 
 Fixes:
