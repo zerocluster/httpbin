@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.3 (2022-02-21)
+
+Fixes:
+
+-   fix: ip refactored
+
 ### 1.1.2 (2022-02-21)
 
 Fixes:
