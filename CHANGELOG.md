@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.4 (2022-03-30)
+
+Fixes:
+
+-   fix: docker stack use ingress network
+
 ### 1.1.3 (2022-02-21)
 
 Fixes:
