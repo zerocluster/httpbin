@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.6 (2022-03-31)
+
+Fixes:
+
+-   fix: network renamed to main
+
 ### 1.1.5 (2022-03-31)
 
 Fixes:
