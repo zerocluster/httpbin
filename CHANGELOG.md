@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.7 (2022-04-08)
+
+Fixes:
+
+-   fix: docker nginx labels
+
 ### 1.1.6 (2022-03-31)
 
 Fixes:
