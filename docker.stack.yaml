@@ -7,7 +7,7 @@ version: "3.9"
 
 services:
   httpbin:
-    image: zerocluster/httpbin
+    image: ghcr.io/zerocluster/httpbin
     init: true
     stop_grace_period: 5m
 
