@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.12 (2022-04-27)
+
+Fixes:
+
+-   fix: http server request refactor
+
 ### 1.1.11 (2022-04-22)
 
 Fixes:
