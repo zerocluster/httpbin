@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.0 (2022-05-15)
+
+Features:
+
+-   feat: cache test
+
 ### 1.1.12 (2022-04-27)
 
 Fixes:
