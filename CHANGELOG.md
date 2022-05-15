@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.3.2 (2022-05-15)
+
+Fixes:
+
+-   fix: cache control
+
 ### 1.3.1 (2022-05-15)
 
 Fixes:
