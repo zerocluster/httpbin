@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.3.5 (2022-05-16)
+
+Fixes:
+
+-   fix: cache post request
+
 ### 1.3.4 (2022-05-16)
 
 Fixes:
