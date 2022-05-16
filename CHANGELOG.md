@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.3.4 (2022-05-16)
+
+Fixes:
+
+-   fix: proxy cache methods
+
 ### 1.3.3 (2022-05-15)
 
 Fixes:
