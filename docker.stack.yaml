@@ -21,6 +21,7 @@ services:
         nginx.http.cache.enabled: "true"
         nginx.http.cache.max-size: 10g
         nginx.http.cache.inactive: 1w
+        nginx.http.proxy-cache-methods: GET HEAD POST
 
     # healthcheck:
     #   test: curl -f http://127.0.0.1/api/healthcheck || exit 1
