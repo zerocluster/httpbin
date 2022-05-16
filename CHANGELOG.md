@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.3.10 (2022-05-16)
+
+Fixes:
+
+-   fix: X-Upstream-Cache-Status header
+
 ### 1.3.9 (2022-05-16)
 
 Fixes:
