@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.3.12 (2022-05-16)
+
+Fixes:
+
+-   fix: cache response
+
 ### 1.3.11 (2022-05-16)
 
 Fixes:
