@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.3.6 (2022-05-16)
+
+Fixes:
+
+-   fix: cache timestamp
+
 ### 1.3.5 (2022-05-16)
 
 Fixes:
