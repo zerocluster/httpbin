@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.3.13 (2022-05-16)
+
+Fixes:
+
+-   fix: nginx cache methods
+
 ### 1.3.12 (2022-05-16)
 
 Fixes:
