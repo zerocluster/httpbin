@@ -22,6 +22,7 @@ services:
         nginx.http.cache.max-size: 10g
         nginx.http.cache.inactive: 1w
         nginx.http.upstream-cache-status: 1
+        nginx.http.proxy-cache-bypass: 1
 
     # healthcheck:
     #   test: curl -f http://127.0.0.1/api/healthcheck || exit 1
