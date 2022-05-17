@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.3.15 (2022-05-17)
+
+Fixes:
+
+-   fix: nginx.http.proxy-cache-bypass option
+
 ### 1.3.14 (2022-05-17)
 
 Fixes:
