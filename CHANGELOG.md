@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.3.14 (2022-05-17)
+
+Fixes:
+
+-   fix: nginx.http.upstream-cache-status: 1
+
 ### 1.3.13 (2022-05-16)
 
 Fixes:
