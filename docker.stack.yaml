@@ -18,9 +18,10 @@ services:
       labels:
         nginx.http.server-name: httpbin.softvisio.net
         nginx.http.client-max-body-size: 10m
-        nginx.http.cache.enabled: "true"
+        nginx.http.cache.enabled: 1
         nginx.http.cache.max-size: 10g
         nginx.http.cache.inactive: 1w
+        nginx.http.upstream-cache-status: 1
 
     # healthcheck:
     #   test: curl -f http://127.0.0.1/api/healthcheck || exit 1
