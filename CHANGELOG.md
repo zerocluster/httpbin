@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.3.16 (2022-05-23)
+
+Fixes:
+
+-   fix: psql test service
+
 ### 1.3.15 (2022-05-17)
 
 Fixes:
