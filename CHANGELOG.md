@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.3.17 (2022-08-29)
+
+Fixes:
+
+-   fix: subpackages
+
 ### 1.3.16 (2022-05-23)
 
 Fixes:
