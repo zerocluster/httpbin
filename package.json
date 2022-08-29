@@ -30,7 +30,7 @@
     "dependencies": {
         "@softvisio/core": "^6.0.0"
     },
-    "packages": [
-        "app"
+    "subPackages": [
+        "frontend"
     ]
 }
