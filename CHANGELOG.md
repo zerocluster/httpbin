@@ -1,5 +1,16 @@
 # Changelog
 
+### 1.4.0 (2022-12-22)
+
+Features:
+
+-   feat: file constructor buffer
+
+Fixes:
+
+-   fix: app refactored
+-   fix: deps
+
 ### 1.3.18 (2022-09-14)
 
 Fixes:
