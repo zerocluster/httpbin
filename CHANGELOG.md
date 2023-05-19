@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.5.0 (2023-05-19)
+
+Features:
+
+-   feat: delay endpoint
+
 ### 1.4.1 (2023-04-22)
 
 Fixes:
