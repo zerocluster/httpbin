@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.5.1 (2023-05-21)
+
+Fixes:
+
+-   fix: delay param
+
 ### 1.5.0 (2023-05-19)
 
 Features:
