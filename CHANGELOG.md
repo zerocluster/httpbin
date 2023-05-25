@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.5.2 (2023-05-25)
+
+Fixes:
+
+-   fix: app components
+
 ### 1.5.1 (2023-05-21)
 
 Fixes:
