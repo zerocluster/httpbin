@@ -1,7 +1,10 @@
 dependencies:
   - "@softvisio/core"
 
-components:
-  publicHttpServer: true
+services:
+  default:
+    publicHttpServer: true
+
+components: ~
 
 config: ~
