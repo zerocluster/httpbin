@@ -1,5 +1,14 @@
-type: object
-properties: {}
+- $id: env
+  type: object
+  properties: {}
+  required: []
 
-required: []
-additionalProperties: false
+- $id: public-config
+  type: object
+  properties: {}
+
+- $id: config1
+  type: object
+  properties: {}
+  additionalProperties: false
+  required: []
