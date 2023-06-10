@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.5.8 (2023-06-10)
+
+Fixes:
+
+-   fix: docker command
+
 ### 1.5.7 (2023-06-10)
 
 Fixes:
