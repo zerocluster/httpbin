@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.5.9 (2023-06-10)
+
+No notable changes since the previous release.
+
 ### 1.5.8 (2023-06-10)
 
 Fixes:
