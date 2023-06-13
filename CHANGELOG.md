@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.6.0 (2023-06-13)
+
+Features:
+
+-   feat: App.run()
+
 ### 1.5.9 (2023-06-10)
 
 No notable changes since the previous release.
