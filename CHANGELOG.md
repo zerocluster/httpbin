@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.6.3 (2023-06-16)
+
+Fixes:
+
+-   fix: package cli config
+
 ### 1.6.2 (2023-06-15)
 
 Fixes:
