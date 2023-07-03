@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.6.4 (2023-07-03)
+
+Fixes:
+
+-   fix: app start
+
 ### 1.6.3 (2023-06-16)
 
 Fixes:
