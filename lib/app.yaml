@@ -3,7 +3,8 @@ dependencies:
 
 services:
   http:
-    publicHttpServer: true
+    components:
+      publicHttpServer: true
 
 defaultService: http
 
