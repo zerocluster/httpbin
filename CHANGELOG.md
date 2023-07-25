@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.6.5 (2023-07-25)
+
+Fixes:
+
+-   fix: docker stack
+
 ### 1.6.4 (2023-07-03)
 
 Fixes:
