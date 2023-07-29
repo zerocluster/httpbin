@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.6.9 (2023-07-29)
+
+Fixes:
+
+-   fix: focker build
+
 ### 1.6.8 (2023-07-29)
 
 Fixes:
