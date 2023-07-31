@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.6.12 (2023-07-31)
+
+Fixes:
+
+-   fix: .dockerignore
+
 ### 1.6.11 (2023-07-30)
 
 Fixes:
