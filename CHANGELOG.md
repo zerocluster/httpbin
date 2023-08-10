@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.6.14 (2023-08-10)
+
+Fixes:
+
+-   fix: http server request
+
 ### 1.6.13 (2023-08-04)
 
 Fixes:
