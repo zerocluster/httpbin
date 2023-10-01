@@ -20,7 +20,7 @@ services:
         nginx.http.cache-status: true
         nginx.http.cache.bypass: true
 
-    command: ""
+    command: run
 
     # configs:
     #   - { source: env.yaml, target: /var/local/package/env.yaml }
