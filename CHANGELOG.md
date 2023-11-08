@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.6.17 (2023-11-08)
+
+Fixes:
+
+-   fix: docker npm env
+
 ### 1.6.16 (2023-10-20)
 
 Fixes:
