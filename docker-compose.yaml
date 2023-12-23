@@ -16,9 +16,7 @@ services:
       placement:
         max_replicas_per_node: 1
       labels:
-        nginx.http.server-names: ""
-        nginx.http.cache-status: true
-        nginx.http.cache.bypass: true
+        nginx.1: http?serverName=&cacheBypass=true
 
     command: run
 
