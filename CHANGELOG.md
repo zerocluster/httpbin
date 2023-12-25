@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.6.20 (2023-12-25)
+
+Fixes:
+
+-   fix: docker cpnfig
+
 ### 1.6.19 (2023-12-24)
 
 Fixes:
