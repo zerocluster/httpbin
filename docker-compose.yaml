@@ -16,7 +16,7 @@ services:
       placement:
         max_replicas_per_node: 1
       labels:
-        nginx: http?serverName=&cacheBypass=true
+        nginx: http?serverName=&cacheEnabled=false&cacheBypass=true
 
     command: run
 
@@ -25,8 +25,8 @@ services:
 
     networks: [main]
 
-    # volumes:
-    #   - { type: tmpfs, target: /dev/shm, tmpfs: { size: 1073741824 } }
+    volumes:
+      - { type: tmpfs, target: /dev/shm, tmpfs: { size: 1073741824 } }
 
     build: .
 
