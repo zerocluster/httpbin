@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.6.22 (2023-12-25)
+
+Fixes:
+
+-   fix: docker config
+
 ### 1.6.21 (2023-12-25)
 
 Fixes:
