@@ -16,7 +16,7 @@ services:
       placement:
         max_replicas_per_node: 1
       labels:
-        nginx: upstreamPort=80&port=80,443&serverName=httpbin.softvisio.net&cacheEnabled=true&cacheBypass=true
+        nginx: upstreamPort=80&port=443&serverName=httpbin.softvisio.net&cacheEnabled=true&cacheBypass=true
 
     command: run
 
