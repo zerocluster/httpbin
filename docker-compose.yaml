@@ -8,6 +8,7 @@ version: "3.9"
 services:
   httpbin:
     image: ghcr.io/zerocluster/httpbin
+    # depends_on: [postgresql]
     init: true
     stop_grace_period: 5m
 
@@ -21,7 +22,7 @@ services:
     command: run
 
     # secrets:
-    #   - { source: env.yaml, target: /var/local/package/env.yaml }
+    #   - { source: httpbin, target: /var/local/package/env.yaml }
 
     networks: [main]
 
@@ -31,7 +32,7 @@ services:
     build: .
 
 # secrets:
-#   env.yaml: { file: env.production.local.yaml }
+#   httpbin: { file: env.production.local.yaml }
 
 networks:
   main: { external: true }
