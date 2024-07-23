@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.6.32 (2024-07-23)
+
+Fixes:
+
+-   fix: swarm update script
+
 ### 1.6.31 (2024-06-04)
 
 Fixes:
