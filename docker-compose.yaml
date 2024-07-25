@@ -20,7 +20,7 @@ services:
     command: run
 
     # secrets:
-    #   - { source: httpbin, target: /var/local/package/env.yaml }
+    #   - { source: httpbin_env.yaml, target: /var/local/package/env.yaml }
 
     networks: [network]
 
@@ -30,7 +30,7 @@ services:
     build: .
 
 # secrets:
-#   httpbin: { file: env.production.local.yaml }
+#   httpbin_env.yaml: { file: env.production.local.yaml }
 
 networks:
   network:
