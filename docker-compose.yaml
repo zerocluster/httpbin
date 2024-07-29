@@ -1,8 +1,3 @@
-#!/usr/bin/env -S docker stack deploy --with-registry-auth httpbin -c
-
-# NOTE deploy
-# docker stack deploy --with-registry-auth -c docker-stack.yaml httpbin
-
 services:
   httpbin:
     image: ghcr.io/zerocluster/httpbin
@@ -33,6 +28,4 @@ services:
 #   httpbin_env.yaml: { file: env.production.local.yaml }
 
 networks:
-  network:
-    name: ${DOCKER_STACK_NETWORK_NAME:-main}
-    external: true
+  network: ~
