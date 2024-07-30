@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.6.39 (2024-07-30)
+
+Fixes:
+
+-   fix: deps
+-   fix: docker stack network
+-   fix: tests removed
+
 ### 1.6.38 (2024-07-28)
 
 Fixes:
