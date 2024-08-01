@@ -1,5 +1,12 @@
 # Changelog
 
+### 1.6.40 (2024-08-01)
+
+Fixes:
+
+-   fix: deps
+-   fix: docker depends_on
+
 ### 1.6.39 (2024-07-30)
 
 Fixes:
