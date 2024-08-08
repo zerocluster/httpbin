@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.6.42 (2024-08-08)
+
+Fixes:
+
+-   fix: dependencies update
+
 ### 1.6.41 (2024-08-01)
 
 Fixes:
