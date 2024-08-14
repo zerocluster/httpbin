@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.6.44 (2024-08-14)
+
+No notable changes since the previous release.
+
 ### 1.6.43 (2024-08-10)
 
 Fixes:
