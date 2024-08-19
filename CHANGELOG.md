@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.7.0 (2024-08-19)
+
+Features:
+
+-   feat: undici fetch
+
 ### 1.6.44 (2024-08-14)
 
 No notable changes since the previous release.
