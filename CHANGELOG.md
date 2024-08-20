@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.7.1 (2024-08-20)
+
+Fixes:
+
+-   fix: set cookie
+
 ### 1.7.0 (2024-08-19)
 
 Features:
