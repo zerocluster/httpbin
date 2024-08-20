@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.7.2 (2024-08-20)
+
+Fixes:
+
+-   fix: headers date
+
 ### 1.7.1 (2024-08-20)
 
 Fixes:
