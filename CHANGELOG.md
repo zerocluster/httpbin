@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.8.0 (2024-08-21)
+
+Features:
+
+-   feat: post endpoint
+
 ### 1.7.5 (2024-08-20)
 
 No notable changes since the previous release.
