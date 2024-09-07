@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.8.4 (2024-09-07)
+
+Fixes:
+
+-   fix: editor config
+
 ### 1.8.3 (2024-09-02)
 
 No notable changes since the previous release.
