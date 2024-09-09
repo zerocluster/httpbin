@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.8.5 (2024-09-09)
+
+Fixes:
+
+-   fix: redirect endpoint
+
 ### 1.8.4 (2024-09-07)
 
 Fixes:
