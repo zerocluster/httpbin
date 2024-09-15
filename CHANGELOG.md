@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.8.7 (2024-09-15)
+
+Fixes:
+
+-   fix: app
+
 ### 1.8.6 (2024-09-13)
 
 No notable changes since the previous release.
