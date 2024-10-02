@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.8.9 (2024-10-02)
+
+No notable changes since the previous release.
+
 ### 1.8.8 (2024-09-16)
 
 Fixes:
