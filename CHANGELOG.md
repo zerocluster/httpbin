@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.8.12 (2024-10-20)
+
+No notable changes since the previous release.
+
+[Full list of the changes](https://github.com/zerocluster/httpbin/compare/v1.8.11...v1.8.12)
+
 ### 1.8.11 (2024-10-17)
 
 No notable changes since the previous release.
