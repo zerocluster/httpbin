@@ -4,7 +4,7 @@
 
 Other changes:
 
--   chore: update package dependencies
+- chore: update package dependencies
 
 [Compare with the previous release: v1.8.18 ... v1.8.19](https://github.com/zerocluster/httpbin/compare/v1.8.18...v1.8.19)
 
@@ -12,7 +12,7 @@ Other changes:
 
 Other changes:
 
--   chore: update package dependencies
+- chore: update package dependencies
 
 [Compare with the previous release: v1.8.17 ... v1.8.18](https://github.com/zerocluster/httpbin/compare/v1.8.17...v1.8.18)
 
@@ -20,7 +20,7 @@ Other changes:
 
 Other changes:
 
--   chore: update package dependencies
+- chore: update package dependencies
 
 [Compare with the previous release: v1.8.16 ... v1.8.17](https://github.com/zerocluster/httpbin/compare/v1.8.16...v1.8.17)
 
@@ -28,7 +28,7 @@ Other changes:
 
 Other changes:
 
--   chore: update package dependencies
+- chore: update package dependencies
 
 [Compare with the previous release: v1.8.15 ... v1.8.16](https://github.com/zerocluster/httpbin/compare/v1.8.15...v1.8.16)
 
@@ -36,7 +36,7 @@ Other changes:
 
 Other changes:
 
--   chore: update package dependencies
+- chore: update package dependencies
 
 [Compare with the previous release: v1.8.14 ... v1.8.15](https://github.com/zerocluster/httpbin/compare/v1.8.14...v1.8.15)
 
@@ -44,7 +44,7 @@ Other changes:
 
 Other changes:
 
--   chore: update package dependencies
+- chore: update package dependencies
 
 [Compare with the previous release: v1.8.13 ... v1.8.14](https://github.com/zerocluster/httpbin/compare/v1.8.13...v1.8.14)
 
@@ -70,7 +70,7 @@ No notable changes since the previous release.
 
 Fixes:
 
--   fix: dependabot
+- fix: dependabot
 
 ### 1.8.9 (2024-10-02)
 
@@ -80,13 +80,13 @@ No notable changes since the previous release.
 
 Fixes:
 
--   fix: app
+- fix: app
 
 ### 1.8.7 (2024-09-15)
 
 Fixes:
 
--   fix: app
+- fix: app
 
 ### 1.8.6 (2024-09-13)
 
@@ -96,13 +96,13 @@ No notable changes since the previous release.
 
 Fixes:
 
--   fix: redirect endpoint
+- fix: redirect endpoint
 
 ### 1.8.4 (2024-09-07)
 
 Fixes:
 
--   fix: editor config
+- fix: editor config
 
 ### 1.8.3 (2024-09-02)
 
@@ -120,7 +120,7 @@ No notable changes since the previous release.
 
 Features:
 
--   feat: post endpoint
+- feat: post endpoint
 
 ### 1.7.5 (2024-08-20)
 
@@ -134,25 +134,25 @@ No notable changes since the previous release.
 
 Fixes:
 
--   fix: headers original names
+- fix: headers original names
 
 ### 1.7.2 (2024-08-20)
 
 Fixes:
 
--   fix: headers date
+- fix: headers date
 
 ### 1.7.1 (2024-08-20)
 
 Fixes:
 
--   fix: set cookie
+- fix: set cookie
 
 ### 1.7.0 (2024-08-19)
 
 Features:
 
--   feat: undici fetch
+- feat: undici fetch
 
 ### 1.6.44 (2024-08-14)
 
@@ -162,268 +162,268 @@ No notable changes since the previous release.
 
 Fixes:
 
--   fix: .softvisio-cli.yaml renamed to .cli.yaml
+- fix: .softvisio-cli.yaml renamed to .cli.yaml
 
 ### 1.6.42 (2024-08-08)
 
 Fixes:
 
--   fix: dependencies update
+- fix: dependencies update
 
 ### 1.6.41 (2024-08-01)
 
 Fixes:
 
--   fix: docker-compose renamed to compose.yaml
+- fix: docker-compose renamed to compose.yaml
 
 ### 1.6.40 (2024-08-01)
 
 Fixes:
 
--   fix: deps
--   fix: docker depends_on
+- fix: deps
+- fix: docker depends_on
 
 ### 1.6.39 (2024-07-30)
 
 Fixes:
 
--   fix: deps
--   fix: docker stack network
--   fix: tests removed
+- fix: deps
+- fix: docker stack network
+- fix: tests removed
 
 ### 1.6.38 (2024-07-28)
 
 Fixes:
 
--   fix: deps
+- fix: deps
 
 ### 1.6.37 (2024-07-26)
 
 Fixes:
 
--   fix: deps
+- fix: deps
 
 ### 1.6.36 (2024-07-26)
 
 Fixes:
 
--   fix: package lock added
+- fix: package lock added
 
 ### 1.6.35 (2024-07-25)
 
 Fixes:
 
--   fix: docker compose schema
+- fix: docker compose schema
 
 ### 1.6.34 (2024-07-24)
 
 Fixes:
 
--   fix: compose file version removed
+- fix: compose file version removed
 
 ### 1.6.33 (2024-07-24)
 
 Fixes:
 
--   fix: stack network
+- fix: stack network
 
 ### 1.6.32 (2024-07-23)
 
 Fixes:
 
--   fix: swarm update script
+- fix: swarm update script
 
 ### 1.6.31 (2024-06-04)
 
 Fixes:
 
--   fix: config
+- fix: config
 
 ### 1.6.30 (2024-05-29)
 
 Fixes:
 
--   fix: email address
+- fix: email address
 
 ### 1.6.29 (2024-05-27)
 
 Fixes:
 
--   fix: use port 80
+- fix: use port 80
 
 ### 1.6.28 (2024-04-24)
 
 Fixes:
 
--   fix: cli config docker schema
+- fix: cli config docker schema
 
 ### 1.6.27 (2024-01-25)
 
 Fixes:
 
--   fix: focker config secrets
+- fix: focker config secrets
 
 ### 1.6.26 (2024-01-24)
 
 Fixes:
 
--   fix: linted
+- fix: linted
 
 ### 1.6.25 (2024-01-06)
 
 Fixes:
 
--   fix: nginx config
+- fix: nginx config
 
 ### 1.6.24 (2024-01-02)
 
 Fixes:
 
--   fix: nginx
+- fix: nginx
 
 ### 1.6.23 (2023-12-30)
 
 Fixes:
 
--   fix: nginx config
+- fix: nginx config
 
 ### 1.6.22 (2023-12-25)
 
 Fixes:
 
--   fix: docker config
+- fix: docker config
 
 ### 1.6.21 (2023-12-25)
 
 Fixes:
 
--   fix: docker cpnfig
+- fix: docker cpnfig
 
 ### 1.6.20 (2023-12-25)
 
 Fixes:
 
--   fix: docker cpnfig
+- fix: docker cpnfig
 
 ### 1.6.19 (2023-12-24)
 
 Fixes:
 
--   fix: nginx config
+- fix: nginx config
 
 ### 1.6.18 (2023-12-23)
 
 Fixes:
 
--   fix: nginx config
+- fix: nginx config
 
 ### 1.6.17 (2023-11-08)
 
 Fixes:
 
--   fix: docker npm env
+- fix: docker npm env
 
 ### 1.6.16 (2023-10-20)
 
 Fixes:
 
--   fix: package repo url
+- fix: package repo url
 
 ### 1.6.15 (2023-10-01)
 
 Fixes:
 
--   fix: cli
+- fix: cli
 
 ### 1.6.14 (2023-08-10)
 
 Fixes:
 
--   fix: http server request
+- fix: http server request
 
 ### 1.6.13 (2023-08-04)
 
 Fixes:
 
--   fix: docker entrypoint
+- fix: docker entrypoint
 
 ### 1.6.12 (2023-07-31)
 
 Fixes:
 
--   fix: .dockerignore
+- fix: .dockerignore
 
 ### 1.6.11 (2023-07-30)
 
 Fixes:
 
--   fix: .dockerignore
+- fix: .dockerignore
 
 ### 1.6.10 (2023-07-29)
 
 Fixes:
 
--   fix: app schema
+- fix: app schema
 
 ### 1.6.9 (2023-07-29)
 
 Fixes:
 
--   fix: focker build
+- fix: focker build
 
 ### 1.6.8 (2023-07-29)
 
 Fixes:
 
--   fix: ports
+- fix: ports
 
 ### 1.6.7 (2023-07-28)
 
 Fixes:
 
--   fix: docker build refactored
+- fix: docker build refactored
 
 ### 1.6.6 (2023-07-25)
 
 Fixes:
 
--   fix: app config
+- fix: app config
 
 ### 1.6.5 (2023-07-25)
 
 Fixes:
 
--   fix: docker stack
+- fix: docker stack
 
 ### 1.6.4 (2023-07-03)
 
 Fixes:
 
--   fix: app start
+- fix: app start
 
 ### 1.6.3 (2023-06-16)
 
 Fixes:
 
--   fix: package cli config
+- fix: package cli config
 
 ### 1.6.2 (2023-06-15)
 
 Fixes:
 
--   fix: migrate to the new glob
+- fix: migrate to the new glob
 
 ### 1.6.1 (2023-06-15)
 
 Fixes:
 
--   fix: migrate to the new glob
+- fix: migrate to the new glob
 
 ### 1.6.0 (2023-06-13)
 
 Features:
 
--   feat: App.run()
+- feat: App.run()
 
 ### 1.5.9 (2023-06-10)
 
@@ -433,295 +433,295 @@ No notable changes since the previous release.
 
 Fixes:
 
--   fix: docker command
+- fix: docker command
 
 ### 1.5.7 (2023-06-10)
 
 Fixes:
 
--   fix: app cli
+- fix: app cli
 
 ### 1.5.6 (2023-06-06)
 
 Fixes:
 
--   fix: app configs
+- fix: app configs
 
 ### 1.5.5 (2023-06-04)
 
 Fixes:
 
--   fix: health check
+- fix: health check
 
 ### 1.5.4 (2023-06-04)
 
 Fixes:
 
--   fix: app init
+- fix: app init
 
 ### 1.5.3 (2023-05-29)
 
 Fixes:
 
--   fix: components
--   fix: docker stack schema
+- fix: components
+- fix: docker stack schema
 
 ### 1.5.2 (2023-05-25)
 
 Fixes:
 
--   fix: app components
+- fix: app components
 
 ### 1.5.1 (2023-05-21)
 
 Fixes:
 
--   fix: delay param
+- fix: delay param
 
 ### 1.5.0 (2023-05-19)
 
 Features:
 
--   feat: delay endpoint
+- feat: delay endpoint
 
 ### 1.4.1 (2023-04-22)
 
 Fixes:
 
--   fix: app main script
+- fix: app main script
 
 ### 1.4.0 (2022-12-22)
 
 Features:
 
--   feat: file constructor buffer
+- feat: file constructor buffer
 
 Fixes:
 
--   fix: app refactored
--   fix: deps
+- fix: app refactored
+- fix: deps
 
 ### 1.3.18 (2022-09-14)
 
 Fixes:
 
--   fix: scripts urls
+- fix: scripts urls
 
 ### 1.3.17 (2022-08-29)
 
 Fixes:
 
--   fix: subpackages
+- fix: subpackages
 
 ### 1.3.16 (2022-05-23)
 
 Fixes:
 
--   fix: psql test service
+- fix: psql test service
 
 ### 1.3.15 (2022-05-17)
 
 Fixes:
 
--   fix: nginx.http.proxy-cache-bypass option
+- fix: nginx.http.proxy-cache-bypass option
 
 ### 1.3.14 (2022-05-17)
 
 Fixes:
 
--   fix: nginx.http.upstream-cache-status: 1
+- fix: nginx.http.upstream-cache-status: 1
 
 ### 1.3.13 (2022-05-16)
 
 Fixes:
 
--   fix: nginx cache methods
+- fix: nginx cache methods
 
 ### 1.3.12 (2022-05-16)
 
 Fixes:
 
--   fix: cache response
+- fix: cache response
 
 ### 1.3.11 (2022-05-16)
 
 Fixes:
 
--   fix: X-Upstream-Cache-Status header
+- fix: X-Upstream-Cache-Status header
 
 ### 1.3.10 (2022-05-16)
 
 Fixes:
 
--   fix: X-Upstream-Cache-Status header
+- fix: X-Upstream-Cache-Status header
 
 ### 1.3.9 (2022-05-16)
 
 Fixes:
 
--   fix: X-Upstream-Cache-Status header
+- fix: X-Upstream-Cache-Status header
 
 ### 1.3.8 (2022-05-16)
 
 Fixes:
 
--   fix: cache timestamp
+- fix: cache timestamp
 
 ### 1.3.7 (2022-05-16)
 
 Fixes:
 
--   fix: cache timestamp
+- fix: cache timestamp
 
 ### 1.3.6 (2022-05-16)
 
 Fixes:
 
--   fix: cache timestamp
+- fix: cache timestamp
 
 ### 1.3.5 (2022-05-16)
 
 Fixes:
 
--   fix: cache post request
+- fix: cache post request
 
 ### 1.3.4 (2022-05-16)
 
 Fixes:
 
--   fix: proxy cache methods
+- fix: proxy cache methods
 
 ### 1.3.3 (2022-05-15)
 
 Fixes:
 
--   fix: cache control
+- fix: cache control
 
 ### 1.3.2 (2022-05-15)
 
 Fixes:
 
--   fix: cache control
+- fix: cache control
 
 ### 1.3.1 (2022-05-15)
 
 Fixes:
 
--   fix: utc date
+- fix: utc date
 
 ### 1.3.0 (2022-05-15)
 
 Features:
 
--   feat: cache test
+- feat: cache test
 
 ### 1.2.0 (2022-05-15)
 
 Features:
 
--   feat: cache test
+- feat: cache test
 
 ### 1.1.12 (2022-04-27)
 
 Fixes:
 
--   fix: http server request refactor
+- fix: http server request refactor
 
 ### 1.1.11 (2022-04-22)
 
 Fixes:
 
--   fix: docker entry point script
+- fix: docker entry point script
 
 ### 1.1.10 (2022-04-19)
 
 Fixes:
 
--   fix: docker github label removed
+- fix: docker github label removed
 
 ### 1.1.9 (2022-04-18)
 
 Fixes:
 
--   fix: dockerfile label
+- fix: dockerfile label
 
 ### 1.1.8 (2022-04-18)
 
 Fixes:
 
--   fix: docker migrated to github
+- fix: docker migrated to github
 
 ### 1.1.7 (2022-04-08)
 
 Fixes:
 
--   fix: docker nginx labels
+- fix: docker nginx labels
 
 ### 1.1.6 (2022-03-31)
 
 Fixes:
 
--   fix: network renamed to main
+- fix: network renamed to main
 
 ### 1.1.5 (2022-03-31)
 
 Fixes:
 
--   fix: docker stack network added
+- fix: docker stack network added
 
 ### 1.1.4 (2022-03-30)
 
 Fixes:
 
--   fix: docker stack use ingress network
+- fix: docker stack use ingress network
 
 ### 1.1.3 (2022-02-21)
 
 Fixes:
 
--   fix: ip refactored
+- fix: ip refactored
 
 ### 1.1.2 (2022-02-21)
 
 Fixes:
 
--   fix: metadata update
+- fix: metadata update
 
 ### 1.1.1 (2022-02-20)
 
 Fixes:
 
--   fix: content type added
+- fix: content type added
 
 ### 1.1.0 (2022-02-19)
 
 Features:
 
--   feat: headers
+- feat: headers
 
 ### 1.0.3 (2022-02-19)
 
 Fixes:
 
--   fix: docker healthcheck disabled
+- fix: docker healthcheck disabled
 
 ### 1.0.2 (2022-02-12)
 
 Fixes:
 
--   fix: docker-stack.yaml renamed
+- fix: docker-stack.yaml renamed
 
 ### 1.0.1 (2022-02-11)
 
 Fixes:
 
--   fix: app config
--   fix: app env schema added
+- fix: app config
+- fix: app env schema added
 
 ### 1.0.0 (2022-02-11)
 
 Fixes:
 
--   fix: init
+- fix: init
 
 Migration:
