@@ -1,5 +1,16 @@
 # Changelog
 
+### 1.8.20 (2024-12-07)
+
+Other changes:
+
+- chore: lint
+- chore: set yaml indent to 4 spaces
+- chore: update package dependencies
+- chore: update package metadata
+
+[Compare with the previous release: v1.8.19 ... v1.8.20](https://github.com/zerocluster/httpbin/compare/v1.8.19...v1.8.20)
+
 ### 1.8.19 (2024-11-04)
 
 Other changes:
