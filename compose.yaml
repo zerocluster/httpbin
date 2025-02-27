@@ -1,31 +1,31 @@
 services:
-    httpbin:
-        image: ghcr.io/zerocluster/httpbin
-        # depends_on: [postgresql]
-        init: true
-        stop_grace_period: 5m
+  httpbin:
+    image: ghcr.io/zerocluster/httpbin
+    # depends_on: [postgresql]
+    init: true
+    stop_grace_period: 5m
 
-        deploy:
-            replicas: 1
-            placement:
-                max_replicas_per_node: 1
-            labels:
-                nginx: upstream=80&servers=80,443&serverNames=httpbin.softvisio.net&cacheEnabled=true&cacheBypass=true
+    deploy:
+      replicas: 1
+      placement:
+        max_replicas_per_node: 1
+      labels:
+        nginx: upstream=80&servers=80,443&serverNames=httpbin.softvisio.net&cacheEnabled=true&cacheBypass=true
 
-        command: run
+    command: run
 
-        # secrets:
-        #   - { source: httpbin_env.yaml, target: /var/local/package/env.yaml }
+    # secrets:
+    #   - { source: httpbin_env.yaml, target: /var/local/package/env.yaml }
 
-        networks: [network]
+    networks: [network]
 
-        volumes:
-            - { type: tmpfs, target: /dev/shm, tmpfs: { size: 1073741824 } }
+    volumes:
+      - { type: tmpfs, target: /dev/shm, tmpfs: { size: 1073741824 } }
 
-        build: .
+    build: .
 
 # secrets:
 #   httpbin_env.yaml: { file: env.production.local.yaml }
 
 networks:
-    network: ~
+  network: ~
