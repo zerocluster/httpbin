@@ -1,5 +1,14 @@
 # Changelog
 
+### 1.8.37 (2025-02-27)
+
+Other changes:
+
+- chore: fix nginx api
+- chore: update package dependencies
+
+Compare with the previous release: [`v1.8.36...v1.8.37`](https://github.com/zerocluster/httpbin/compare/v1.8.36...v1.8.37)
+
 ### 1.8.36 (2025-02-27)
 
 Other changes:
