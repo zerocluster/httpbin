@@ -1,5 +1,15 @@
 # Changelog
 
+### 1.8.39 (2025-02-27)
+
+Other changes:
+
+- chore: add editorconfig yaml
+- chore: fix nginx real ip detection
+- chore: update package dependencies
+
+Compare with the previous release: [`v1.8.38...v1.8.39`](https://github.com/zerocluster/httpbin/compare/v1.8.38...v1.8.39)
+
 ### 1.8.38 (2025-02-27)
 
 Other changes:
