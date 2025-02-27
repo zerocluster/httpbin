@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.8.36 (2025-02-27)
+
+Other changes:
+
+- chore: update package dependencies
+
+Compare with the previous release: [`v1.8.35...v1.8.36`](https://github.com/zerocluster/httpbin/compare/v1.8.35...v1.8.36)
+
 ### 1.8.35 (2025-02-26)
 
 Other changes:
