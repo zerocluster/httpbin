@@ -1,5 +1,15 @@
 # Changelog
 
+### 1.8.42 (2025-03-08)
+
+Other changes:
+
+- chore: fix shebang
+- chore: update package dependencies
+- chore: update package metadata
+
+Compare with the previous release: [`v1.8.41...v1.8.42`](https://github.com/zerocluster/httpbin/compare/v1.8.41...v1.8.42)
+
 ### 1.8.41 (2025-03-03)
 
 Other changes:
