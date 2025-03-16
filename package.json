@@ -1,6 +1,6 @@
 {
     "name": "@zerocluster/httpbin",
-    "version": "1.8.44",
+    "version": "1.8.45",
     "private": true,
     "description": "HTTP test service",
     "keywords": [
