@@ -1,5 +1,14 @@
 # Changelog
 
+### 1.8.52 (2025-04-10)
+
+Other changes:
+
+- chore: rename dockerfile
+- chore: update package dependencies
+
+Compare with the previous release: [`v1.8.51...v1.8.52`](https://github.com/zerocluster/httpbin/compare/v1.8.51...v1.8.52)
+
 ### 1.8.51 (2025-04-06)
 
 Other changes:
