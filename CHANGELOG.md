@@ -1,5 +1,11 @@
 # Changelog
 
+### v1.8.71 (2025-05-28)
+
+**Other changes:**
+
+- \[PATCH] chore: update package dependencies (👬 zdm)
+
 ### v1.8.70 (2025-05-23)
 
 **Other changes:**
