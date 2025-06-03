@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.8.78 (2025-06-03)
+
+**Other changes:**
+
+- \[PATCH] chore: update package dependencies (👬 zdm)
+
+Compare with the previous release: [v1.8.77](https://github.com/zerocluster/httpbin/compare/v1.8.77...v1.8.78)
+
 ### v1.8.77 (2025-06-03)
 
 **Other changes:**
