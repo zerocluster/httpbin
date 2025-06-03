@@ -8,6 +8,8 @@ services:
 
 defaultService: http
 
-components: ~
+components:
+  env:
+    name: httpbin
 
 config: ~
