@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.8.82 (2025-06-13)
+
+**Other changes:**
+
+- chore(deps): update package dependencies (● [f88946d](https://github.com/zerocluster/httpbin/commit/f88946d), [dd34c4e](https://github.com/zerocluster/httpbin/commit/dd34c4e), [b470f1a](https://github.com/zerocluster/httpbin/commit/b470f1a), [0978cfb](https://github.com/zerocluster/httpbin/commit/0978cfb); 👬 zdm)
+
+Compare with the previous release: [v1.8.81](https://github.com/zerocluster/httpbin/compare/v1.8.81...v1.8.82)
+
 ### v1.8.81 (2025-06-10)
 
 **Other changes:**
