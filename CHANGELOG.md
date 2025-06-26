@@ -1,5 +1,19 @@
 # Changelog
 
+### v1.8.86 (2025-06-26)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: fix bash invocation in scripts (● [3d5a80d](https://github.com/zerocluster/httpbin/commit/3d5a80d); 👬 zdm)
+
+- \[PATCH] refactor: fix external bash scripts invocation (● [146273f](https://github.com/zerocluster/httpbin/commit/146273f); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update package dependencies (● [db688ef](https://github.com/zerocluster/httpbin/commit/db688ef); 👬 zdm)
+
+Compare with the previous release: [v1.8.85](https://github.com/zerocluster/httpbin/compare/v1.8.85...v1.8.86)
+
 ### v1.8.85 (2025-06-25)
 
 **Other changes:**
