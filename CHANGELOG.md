@@ -1,5 +1,19 @@
 # Changelog
 
+### v1.9.0 (2025-07-03)
+
+**New features:**
+
+- \[MINOR] feat: rename realRemoteAddress to remoteAddress (● [6b37fe2](https://github.com/zerocluster/httpbin/commit/6b37fe2); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [4c149cd](https://github.com/zerocluster/httpbin/commit/4c149cd), [1a92d52](https://github.com/zerocluster/httpbin/commit/1a92d52), [d05c61c](https://github.com/zerocluster/httpbin/commit/d05c61c); 👬 zdm)
+
+- chore(deps): update package dependencies (● [93edac8](https://github.com/zerocluster/httpbin/commit/93edac8); 👬 zdm)
+
+Compare with the previous release: [v1.8.86](https://github.com/zerocluster/httpbin/compare/v1.8.86...v1.9.0)
+
 ### v1.8.86 (2025-06-26)
 
 **Code refactoring:**
