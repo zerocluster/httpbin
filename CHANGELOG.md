@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.9.3 (2025-07-04)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [cd4eff7](https://github.com/zerocluster/httpbin/commit/cd4eff7); 👬 zdm)
+
+Compare with the previous release: [v1.9.2](https://github.com/zerocluster/httpbin/compare/v1.9.2...v1.9.3)
+
 ### v1.9.2 (2025-07-04)
 
 **Other changes:**
