@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.9.2 (2025-07-04)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [d99ad80](https://github.com/zerocluster/httpbin/commit/d99ad80), [e9c8c55](https://github.com/zerocluster/httpbin/commit/e9c8c55); 👬 zdm)
+
+Compare with the previous release: [v1.9.1](https://github.com/zerocluster/httpbin/compare/v1.9.1...v1.9.2)
+
 ### v1.9.1 (2025-07-03)
 
 **Other changes:**
