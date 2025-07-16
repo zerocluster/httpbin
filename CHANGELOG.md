@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.9.6 (2025-07-16)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [cb2c18e](https://github.com/zerocluster/httpbin/commit/cb2c18e); 👬 zdm)
+
+Compare with the previous release: [v1.9.5](https://github.com/zerocluster/httpbin/compare/v1.9.5...v1.9.6)
+
 ### v1.9.5 (2025-07-15)
 
 **Other changes:**
