@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.9.8 (2025-07-16)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [2d6c058](https://github.com/zerocluster/httpbin/commit/2d6c058); 👬 zdm)
+
+- style: lint (● [3d126e6](https://github.com/zerocluster/httpbin/commit/3d126e6); 👬 zdm)
+
+Compare with the previous release: [v1.9.7](https://github.com/zerocluster/httpbin/compare/v1.9.7...v1.9.8)
+
 ### v1.9.7 (2025-07-16)
 
 **Other changes:**
