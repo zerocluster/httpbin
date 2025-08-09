@@ -1,5 +1,19 @@
 # Changelog
 
+### v1.9.9 (2025-08-09)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix editorconfig (● [784dbf3](https://github.com/zerocluster/httpbin/commit/784dbf3); 👬 zdm)
+
+- \[PATCH] fix: update editorconfig (● [8ed61b1](https://github.com/zerocluster/httpbin/commit/8ed61b1); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [715b37a](https://github.com/zerocluster/httpbin/commit/715b37a), [6102246](https://github.com/zerocluster/httpbin/commit/6102246), [4865fbe](https://github.com/zerocluster/httpbin/commit/4865fbe), [f2672fe](https://github.com/zerocluster/httpbin/commit/f2672fe); 👬 zdm)
+
+Compare with the previous release: [v1.9.8](https://github.com/zerocluster/httpbin/compare/v1.9.8...v1.9.9)
+
 ### v1.9.8 (2025-07-16)
 
 **Other changes:**
