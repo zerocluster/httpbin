@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.10.1 (2026-01-18)
+
+**Other changes:**
+
+- chore: remove npm @sencha:registry (● [23f5852](https://github.com/zerocluster/httpbin/commit/23f5852); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [670ea06](https://github.com/zerocluster/httpbin/commit/670ea06), [bbc84df](https://github.com/zerocluster/httpbin/commit/bbc84df), [30528fd](https://github.com/zerocluster/httpbin/commit/30528fd), [48a5048](https://github.com/zerocluster/httpbin/commit/48a5048), [5e73028](https://github.com/zerocluster/httpbin/commit/5e73028); 👬 zdm)
+
+Compare with the previous release: [v1.10.0](https://github.com/zerocluster/httpbin/compare/v1.10.0...v1.10.1)
+
 ### v1.10.0 (2026-01-03)
 
 **New features:**
