@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.10.3 (2026-01-29)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [1668a55](https://github.com/zerocluster/httpbin/commit/1668a55); 👬 zdm)
+
+- chore(metadata): update package metadata (● [beed902](https://github.com/zerocluster/httpbin/commit/beed902); 👬 zdm)
+
+Compare with the previous release: [v1.10.2](https://github.com/zerocluster/httpbin/compare/v1.10.2...v1.10.3)
+
 ### v1.10.2 (2026-01-29)
 
 **Other changes:**
