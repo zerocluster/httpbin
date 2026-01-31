@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.10.5 (2026-01-31)
+
+**Other changes:**
+
+- chore: rename c0rejs namespace (● [bcf4dd5](https://github.com/zerocluster/httpbin/commit/bcf4dd5); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [61bcf42](https://github.com/zerocluster/httpbin/commit/61bcf42); 👬 zdm)
+
+Compare with the previous release: [v1.10.4](https://github.com/zerocluster/httpbin/compare/v1.10.4...v1.10.5)
+
 ### v1.10.4 (2026-01-30)
 
 **Other changes:**
