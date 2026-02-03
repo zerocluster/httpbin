@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.10.6 (2026-02-03)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update File api (● [5619233](https://github.com/zerocluster/httpbin/commit/5619233); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [1466dcf](https://github.com/zerocluster/httpbin/commit/1466dcf), [2acf297](https://github.com/zerocluster/httpbin/commit/2acf297); 👬 zdm)
+
+Compare with the previous release: [v1.10.5](https://github.com/zerocluster/httpbin/compare/v1.10.5...v1.10.6)
+
 ### v1.10.5 (2026-01-31)
 
 **Other changes:**
