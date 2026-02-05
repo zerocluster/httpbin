@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.10.7 (2026-02-05)
+
+**Other changes:**
+
+- chore: remove @zdm npm registry (● [ede9016](https://github.com/zerocluster/httpbin/commit/ede9016); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [6550577](https://github.com/zerocluster/httpbin/commit/6550577), [eb91958](https://github.com/zerocluster/httpbin/commit/eb91958), [1ce422a](https://github.com/zerocluster/httpbin/commit/1ce422a); 👬 zdm)
+
+Compare with the previous release: [v1.10.6](https://github.com/zerocluster/httpbin/compare/v1.10.6...v1.10.7)
+
 ### v1.10.6 (2026-02-03)
 
 **Code refactoring:**
