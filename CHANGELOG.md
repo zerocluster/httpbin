@@ -1,5 +1,21 @@
 # Changelog
 
+### v1.10.10 (2026-03-02)
+
+**Bug fixes:**
+
+- \[PATCH] fix: refactor: update message api (● [8ba37ac](https://github.com/zerocluster/httpbin/commit/8ba37ac); 👬 zdm)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: refactor http message (● [8cc4877](https://github.com/zerocluster/httpbin/commit/8cc4877); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [768b143](https://github.com/zerocluster/httpbin/commit/768b143), [68c805f](https://github.com/zerocluster/httpbin/commit/68c805f), [f498a10](https://github.com/zerocluster/httpbin/commit/f498a10), [f626aac](https://github.com/zerocluster/httpbin/commit/f626aac), [18d3337](https://github.com/zerocluster/httpbin/commit/18d3337); 👬 zdm)
+
+Compare with the previous release: [v1.10.9](https://github.com/zerocluster/httpbin/compare/v1.10.9...v1.10.10)
+
 ### v1.10.9 (2026-02-20)
 
 **Other changes:**
