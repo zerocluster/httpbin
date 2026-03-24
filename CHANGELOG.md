@@ -1,5 +1,19 @@
 # Changelog
 
+### v1.10.14 (2026-03-24)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: refactor stream readers (● [d4725db](https://github.com/zerocluster/httpbin/commit/d4725db), [271c82e](https://github.com/zerocluster/httpbin/commit/271c82e); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [79cd143](https://github.com/zerocluster/httpbin/commit/79cd143), [e20f742](https://github.com/zerocluster/httpbin/commit/e20f742), [98dcc9c](https://github.com/zerocluster/httpbin/commit/98dcc9c), [6d1785e](https://github.com/zerocluster/httpbin/commit/6d1785e), [c0bc59f](https://github.com/zerocluster/httpbin/commit/c0bc59f), [6dec214](https://github.com/zerocluster/httpbin/commit/6dec214), [049da79](https://github.com/zerocluster/httpbin/commit/049da79), [4f45b2a](https://github.com/zerocluster/httpbin/commit/4f45b2a); 👬 zdm)
+
+- chore(metadata): update package metadata (● [a16a4a3](https://github.com/zerocluster/httpbin/commit/a16a4a3); 👬 zdm)
+
+Compare with the previous release: [v1.10.13](https://github.com/zerocluster/httpbin/compare/v1.10.13...v1.10.14)
+
 ### v1.10.13 (2026-03-14)
 
 **Other changes:**
