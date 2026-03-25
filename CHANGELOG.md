@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.10.17 (2026-03-25)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [aa44afa](https://github.com/zerocluster/httpbin/commit/aa44afa); 👬 zdm)
+
+Compare with the previous release: [v1.10.16](https://github.com/zerocluster/httpbin/compare/v1.10.16...v1.10.17)
+
 ### v1.10.16 (2026-03-25)
 
 **Other changes:**
