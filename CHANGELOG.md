@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.10.30 (2026-04-14)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update dockerfile (● [6ec5d65](https://github.com/zerocluster/httpbin/commit/6ec5d65); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [35f1380](https://github.com/zerocluster/httpbin/commit/35f1380), [48440fa](https://github.com/zerocluster/httpbin/commit/48440fa), [04e9d63](https://github.com/zerocluster/httpbin/commit/04e9d63), [945c476](https://github.com/zerocluster/httpbin/commit/945c476), [844b7d2](https://github.com/zerocluster/httpbin/commit/844b7d2), [8b14fae](https://github.com/zerocluster/httpbin/commit/8b14fae); 👬 zdm)
+
+Compare with the previous release: [v1.10.29](https://github.com/zerocluster/httpbin/compare/v1.10.29...v1.10.30)
+
 ### v1.10.29 (2026-04-09)
 
 **Other changes:**
