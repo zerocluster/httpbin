@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.10.31 (2026-04-16)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix dockerfile errors handler (● [3a6640b](https://github.com/zerocluster/httpbin/commit/3a6640b); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [70dcc68](https://github.com/zerocluster/httpbin/commit/70dcc68); 👬 zdm)
+
+Compare with the previous release: [v1.10.30](https://github.com/zerocluster/httpbin/compare/v1.10.30...v1.10.31)
+
 ### v1.10.30 (2026-04-14)
 
 **Code refactoring:**
