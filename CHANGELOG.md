@@ -1,5 +1,23 @@
 # Changelog
 
+### v1.10.33 (2026-04-26)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix sh error trap (● [78ea32e](https://github.com/zerocluster/httpbin/commit/78ea32e); 👬 zdm)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update .editorconfig (● [e07ad6a](https://github.com/zerocluster/httpbin/commit/e07ad6a); 👬 zdm)
+
+- \[PATCH] refactor: update sh error trap (● [18b146a](https://github.com/zerocluster/httpbin/commit/18b146a); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [b5590f6](https://github.com/zerocluster/httpbin/commit/b5590f6), [108b6cd](https://github.com/zerocluster/httpbin/commit/108b6cd), [93bf681](https://github.com/zerocluster/httpbin/commit/93bf681), [faf9acb](https://github.com/zerocluster/httpbin/commit/faf9acb), [d3ff75d](https://github.com/zerocluster/httpbin/commit/d3ff75d), [0eb291c](https://github.com/zerocluster/httpbin/commit/0eb291c), [cc5c21b](https://github.com/zerocluster/httpbin/commit/cc5c21b); 👬 zdm)
+
+Compare with the previous release: [v1.10.32...v1.10.33](https://github.com/zerocluster/httpbin/compare/v1.10.32...v1.10.33)
+
 ### v1.10.32 (2026-04-20)
 
 **Other changes:**
