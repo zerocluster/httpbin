@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.10.35 (2026-05-11)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename cli.config.yaml to scli.config.yaml (● [c044897](https://github.com/zerocluster/httpbin/commit/c044897); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [703c54b](https://github.com/zerocluster/httpbin/commit/703c54b), [ce4eb2d](https://github.com/zerocluster/httpbin/commit/ce4eb2d), [35877ea](https://github.com/zerocluster/httpbin/commit/35877ea), [71e43c1](https://github.com/zerocluster/httpbin/commit/71e43c1), [59c11a7](https://github.com/zerocluster/httpbin/commit/59c11a7), [f94c468](https://github.com/zerocluster/httpbin/commit/f94c468), [52e1f1e](https://github.com/zerocluster/httpbin/commit/52e1f1e), [1983407](https://github.com/zerocluster/httpbin/commit/1983407), [444f649](https://github.com/zerocluster/httpbin/commit/444f649), [f2678af](https://github.com/zerocluster/httpbin/commit/f2678af), [6060bf6](https://github.com/zerocluster/httpbin/commit/6060bf6), [f6503ba](https://github.com/zerocluster/httpbin/commit/f6503ba), [f05694c](https://github.com/zerocluster/httpbin/commit/f05694c), [ec43707](https://github.com/zerocluster/httpbin/commit/ec43707); 👬 zdm)
+
+Compare with the previous release: [v1.10.34...v1.10.35](https://github.com/zerocluster/httpbin/compare/v1.10.34...v1.10.35)
+
 ### v1.10.34 (2026-04-29)
 
 **Other changes:**
