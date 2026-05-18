@@ -6,7 +6,7 @@
     "keywords": [
         "httpbin"
     ],
-    "homepage": "https://github.com/zerocluster/httpbin",
+    "homepage": "https://github.com/zerocluster/httpbin?tab=readme-ov-file#readme",
     "bugs": {
         "url": "https://github.com/zerocluster/httpbin/issues",
         "email": "root <root@softvisio.net>"
