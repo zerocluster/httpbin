@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.10.38 (2026-05-19)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [b344a6d](https://github.com/zerocluster/httpbin/commit/b344a6d), [bc37892](https://github.com/zerocluster/httpbin/commit/bc37892), [65c9c2b](https://github.com/zerocluster/httpbin/commit/65c9c2b); 👬 zdm)
+
+- chore(metadata): update package metadata (● [d1dadea](https://github.com/zerocluster/httpbin/commit/d1dadea); 👬 zdm)
+
+Compare with the previous release: [v1.10.37...v1.10.38](https://github.com/zerocluster/httpbin/compare/v1.10.37...v1.10.38)
+
 ### v1.10.37 (2026-05-16)
 
 **Other changes:**
