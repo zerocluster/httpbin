@@ -2,11 +2,11 @@ dependencies:
   - "@corejslib/core"
 
 services:
-  http:
+  main:
     components:
       publicHttpServer: true
 
-defaultService: http
+defaultService: main
 
 components:
   env:
