@@ -1,5 +1,19 @@
 # Changelog
 
+### v1.10.39 (2026-05-29)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename app service to main (● [7beeb44](https://github.com/zerocluster/httpbin/commit/7beeb44); 👬 zdm)
+
+**Other changes:**
+
+- build: remove registries from .npmrc (● [b5ff95c](https://github.com/zerocluster/httpbin/commit/b5ff95c); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [0faf28e](https://github.com/zerocluster/httpbin/commit/0faf28e), [bbc30b2](https://github.com/zerocluster/httpbin/commit/bbc30b2), [0e3beaa](https://github.com/zerocluster/httpbin/commit/0e3beaa), [2357b46](https://github.com/zerocluster/httpbin/commit/2357b46), [607faf6](https://github.com/zerocluster/httpbin/commit/607faf6), [5cc2b12](https://github.com/zerocluster/httpbin/commit/5cc2b12); 👬 zdm)
+
+Compare with the previous release: [v1.10.38...v1.10.39](https://github.com/zerocluster/httpbin/compare/v1.10.38...v1.10.39)
+
 ### v1.10.38 (2026-05-19)
 
 **Other changes:**
