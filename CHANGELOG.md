@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.10.40 (2026-06-19)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [3974143](https://github.com/zerocluster/httpbin/commit/3974143), [37ff26d](https://github.com/zerocluster/httpbin/commit/37ff26d), [d7b71fb](https://github.com/zerocluster/httpbin/commit/d7b71fb), [386c5a6](https://github.com/zerocluster/httpbin/commit/386c5a6), [685c5f5](https://github.com/zerocluster/httpbin/commit/685c5f5), [5e1dd71](https://github.com/zerocluster/httpbin/commit/5e1dd71), [1445e02](https://github.com/zerocluster/httpbin/commit/1445e02), [e3d9f8a](https://github.com/zerocluster/httpbin/commit/e3d9f8a), [f474dcb](https://github.com/zerocluster/httpbin/commit/f474dcb), [8468e92](https://github.com/zerocluster/httpbin/commit/8468e92), [2d958e8](https://github.com/zerocluster/httpbin/commit/2d958e8), [872e698](https://github.com/zerocluster/httpbin/commit/872e698), [fdf0f33](https://github.com/zerocluster/httpbin/commit/fdf0f33), [97c39a8](https://github.com/zerocluster/httpbin/commit/97c39a8), [6b196b8](https://github.com/zerocluster/httpbin/commit/6b196b8), [ac7ecc0](https://github.com/zerocluster/httpbin/commit/ac7ecc0), [3c15a9c](https://github.com/zerocluster/httpbin/commit/3c15a9c), [33165c9](https://github.com/zerocluster/httpbin/commit/33165c9); 👬 zdm)
+
+Compare with the previous release: [v1.10.39...v1.10.40](https://github.com/zerocluster/httpbin/compare/v1.10.39...v1.10.40)
+
 ### v1.10.39 (2026-05-29)
 
 **Code refactoring:**
