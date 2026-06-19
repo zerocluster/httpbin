@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.10.41 (2026-06-19)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [eab5bbd](https://github.com/zerocluster/httpbin/commit/eab5bbd); 👬 zdm)
+
+Compare with the previous release: [v1.10.40...v1.10.41](https://github.com/zerocluster/httpbin/compare/v1.10.40...v1.10.41)
+
 ### v1.10.40 (2026-06-19)
 
 **Other changes:**
