@@ -436,7 +436,7 @@ Compare with the previous release: [v1.10.0](https://github.com/zerocluster/http
 
 **Bug fixes:**
 
-- \[PATCH] fix: remove NPM_TOKEN_GITHUB (● [fb32777](https://github.com/zerocluster/httpbin/commit/fb32777); 👬 zdm)
+- \[PATCH] fix: remove NPM\_TOKEN\_GITHUB (● [fb32777](https://github.com/zerocluster/httpbin/commit/fb32777); 👬 zdm)
 
 **Other changes:**
 
@@ -1312,7 +1312,7 @@ Fixes:
 Fixes:
 
 - fix: deps
-- fix: docker depends_on
+- fix: docker depends\_on
 
 ### 1.6.39 (2024-07-30)
 
