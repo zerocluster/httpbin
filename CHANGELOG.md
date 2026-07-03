@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.10.47 (2026-07-03)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix md \_ escape (● [7eb81ae](https://github.com/zerocluster/httpbin/commit/7eb81ae); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [f43a011](https://github.com/zerocluster/httpbin/commit/f43a011), [c362797](https://github.com/zerocluster/httpbin/commit/c362797), [eaa6f61](https://github.com/zerocluster/httpbin/commit/eaa6f61), [3fb05d0](https://github.com/zerocluster/httpbin/commit/3fb05d0), [9caa67d](https://github.com/zerocluster/httpbin/commit/9caa67d), [6a3d883](https://github.com/zerocluster/httpbin/commit/6a3d883), [51fb189](https://github.com/zerocluster/httpbin/commit/51fb189), [4a6545d](https://github.com/zerocluster/httpbin/commit/4a6545d), [bee1c27](https://github.com/zerocluster/httpbin/commit/bee1c27), [d2109bb](https://github.com/zerocluster/httpbin/commit/d2109bb), [231a76e](https://github.com/zerocluster/httpbin/commit/231a76e); 👬 zdm)
+
+Compare with the previous release: [v1.10.46...v1.10.47](https://github.com/zerocluster/httpbin/compare/v1.10.46...v1.10.47)
+
 ### v1.10.46 (2026-06-25)
 
 **Other changes:**
