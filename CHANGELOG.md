@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.10.69 (2026-08-03)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [36e59ee](https://github.com/zerocluster/httpbin/commit/36e59ee); 👬 zdm)
+
+- chore(metadata): update package metadata (● [b0000ed](https://github.com/zerocluster/httpbin/commit/b0000ed); 👬 zdm)
+
+Compare with the previous release: [v1.10.68...v1.10.69](https://github.com/zerocluster/httpbin/compare/v1.10.68...v1.10.69)
+
 ### v1.10.68 (2026-08-03)
 
 **Other changes:**
