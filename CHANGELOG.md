@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.10.72 (2026-08-16)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [cc118ef](https://github.com/zerocluster/httpbin/commit/cc118ef), [60ea005](https://github.com/zerocluster/httpbin/commit/60ea005), [606f7d5](https://github.com/zerocluster/httpbin/commit/606f7d5), [b0c644d](https://github.com/zerocluster/httpbin/commit/b0c644d), [6a0cdeb](https://github.com/zerocluster/httpbin/commit/6a0cdeb); 👬 zdm)
+
+Compare with the previous release: [v1.10.71...v1.10.72](https://github.com/zerocluster/httpbin/compare/v1.10.71...v1.10.72)
+
 ### v1.10.71 (2026-08-04)
 
 **Other changes:**
