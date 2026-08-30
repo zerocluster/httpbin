@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.10.79 (2026-08-30)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix shebang (● [2c0e89b](https://github.com/zerocluster/httpbin/commit/2c0e89b); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [dd0a74a](https://github.com/zerocluster/httpbin/commit/dd0a74a), [4f51a4d](https://github.com/zerocluster/httpbin/commit/4f51a4d), [3b89c40](https://github.com/zerocluster/httpbin/commit/3b89c40), [4cc7c68](https://github.com/zerocluster/httpbin/commit/4cc7c68), [6a80ee2](https://github.com/zerocluster/httpbin/commit/6a80ee2); 👬 zdm)
+
+Compare with the previous release: [v1.10.78...v1.10.79](https://github.com/zerocluster/httpbin/compare/v1.10.78...v1.10.79)
+
 ### v1.10.78 (2026-08-27)
 
 **Other changes:**
