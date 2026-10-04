@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.10.98 (2026-10-04)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [05d167b](https://github.com/zerocluster/httpbin/commit/05d167b); 👬 zdm)
+
+Compare with the previous release: [v1.10.97...v1.10.98](https://github.com/zerocluster/httpbin/compare/v1.10.97...v1.10.98)
+
 ### v1.10.97 (2026-10-03)
 
 **Other changes:**
