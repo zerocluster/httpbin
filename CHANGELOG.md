@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.10.100 (2026-10-07)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [b393cea](https://github.com/zerocluster/httpbin/commit/b393cea); 👬 zdm)
+
+Compare with the previous release: [v1.10.99...v1.10.100](https://github.com/zerocluster/httpbin/compare/v1.10.99...v1.10.100)
+
 ### v1.10.99 (2026-10-07)
 
 **Other changes:**
