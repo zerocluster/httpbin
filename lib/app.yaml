@@ -12,4 +12,7 @@ components:
   env:
     name: httpbin
 
+  cluster:
+    enabled: true
+
 config: ~
