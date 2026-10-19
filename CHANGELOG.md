@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.11.0 (2026-10-19)
+
+**New features:**
+
+- \[MINOR] feat: enable cluster support (● [a417fb0](https://github.com/zerocluster/httpbin/commit/a417fb0); 👬 zdm)
+
+Compare with the previous release: [v1.10.111...v1.11.0](https://github.com/zerocluster/httpbin/compare/v1.10.111...v1.11.0)
+
 ### v1.10.111 (2026-10-19)
 
 **Other changes:**
