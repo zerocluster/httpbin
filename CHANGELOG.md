@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.11.3 (2026-10-20)
+
+**Other changes:**
+
+- build: remove cluster enablement from app config (● [5b8a9f1](https://github.com/zerocluster/httpbin/commit/5b8a9f1); 👬 zdm)
+
+Compare with the previous release: [v1.11.2...v1.11.3](https://github.com/zerocluster/httpbin/compare/v1.11.2...v1.11.3)
+
 ### v1.11.2 (2026-10-19)
 
 **Other changes:**
