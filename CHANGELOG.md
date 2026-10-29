@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.11.9 (2026-10-29)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: remove temporal side-effect import (● [0bd4fba](https://github.com/zerocluster/httpbin/commit/0bd4fba); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [76f6a49](https://github.com/zerocluster/httpbin/commit/76f6a49); 👬 zdm)
+
+Compare with the previous release: [v1.11.8...v1.11.9](https://github.com/zerocluster/httpbin/compare/v1.11.8...v1.11.9)
+
 ### v1.11.8 (2026-10-28)
 
 **Other changes:**
