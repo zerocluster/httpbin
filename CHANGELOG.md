@@ -1,5 +1,19 @@
 # Changelog
 
+### v1.11.13 (2026-11-05)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: use Temporal for redirect cookie timestamps (● [fe748f4](https://github.com/zerocluster/httpbin/commit/fe748f4); 👬 zdm)
+
+- \[PATCH] refactor: use Temporal instants for response dates (● [859c47a](https://github.com/zerocluster/httpbin/commit/859c47a); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [2da29f4](https://github.com/zerocluster/httpbin/commit/2da29f4); 👬 zdm)
+
+Compare with the previous release: [v1.11.12...v1.11.13](https://github.com/zerocluster/httpbin/compare/v1.11.12...v1.11.13)
+
 ### v1.11.12 (2026-11-03)
 
 **Other changes:**
