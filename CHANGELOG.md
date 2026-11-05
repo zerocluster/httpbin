@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.11.14 (2026-11-05)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [c0729c9](https://github.com/zerocluster/httpbin/commit/c0729c9); 👬 zdm)
+
+Compare with the previous release: [v1.11.13...v1.11.14](https://github.com/zerocluster/httpbin/compare/v1.11.13...v1.11.14)
+
 ### v1.11.13 (2026-11-05)
 
 **Code refactoring:**
