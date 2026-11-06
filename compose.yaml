@@ -1,7 +1,6 @@
 services:
   httpbin:
     image: ghcr.io/zerocluster/httpbin
-    # depends_on: [postgresql]
     init: true
     stop_grace_period: 5m
 
