@@ -4,6 +4,7 @@ dependencies:
 services:
   main:
     components:
+      httpbin: true
       publicHttpServer: true
 
 defaultService: main
