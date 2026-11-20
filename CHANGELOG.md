@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.12.0 (2026-11-20)
+
+**New features:**
+
+- \[MINOR] feat: add httpbin component (● [dd94f50](https://github.com/zerocluster/httpbin/commit/dd94f50); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [42f0482](https://github.com/zerocluster/httpbin/commit/42f0482), [4abac19](https://github.com/zerocluster/httpbin/commit/4abac19); 👬 zdm)
+
+Compare with the previous release: [v1.11.29...v1.12.0](https://github.com/zerocluster/httpbin/compare/v1.11.29...v1.12.0)
+
 ### v1.11.29 (2026-11-19)
 
 **Other changes:**
