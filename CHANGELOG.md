@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.12.2 (2026-11-21)
+
+**Code refactoring**:
+
+- \[PATCH] refactor: remove unused app configuration fields (● [fb2dbaf](https://github.com/zerocluster/httpbin/commit/fb2dbaf); 👬 zdm)
+
+**Other changes**:
+
+- chore(deps): update locked dependencies (● [8e5413f](https://github.com/zerocluster/httpbin/commit/8e5413f); 👬 zdm)
+
+Compare with the previous release: [v1.12.1...v1.12.2](https://github.com/zerocluster/httpbin/compare/v1.12.1...v1.12.2)
+
 ### v1.12.1 (2026-11-21)
 
 **Other changes**:
