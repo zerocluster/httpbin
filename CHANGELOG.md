@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.12.3 (2026-11-21)
+
+**Bug fixes**:
+
+- \[PATCH] fix: remove empty environment config (● [6235550](https://github.com/zerocluster/httpbin/commit/6235550); 👬 zdm)
+
+Compare with the previous release: [v1.12.2...v1.12.3](https://github.com/zerocluster/httpbin/compare/v1.12.2...v1.12.3)
+
 ### v1.12.2 (2026-11-21)
 
 **Code refactoring**:
