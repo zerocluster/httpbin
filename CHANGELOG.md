@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.12.6 (2026-11-24)
+
+**Bug fixes**:
+
+- \[PATCH] fix: rename app run command to start (● [f17baec](https://github.com/zerocluster/httpbin/commit/f17baec); 👬 zdm)
+
+**Other changes**:
+
+- chore(deps): update locked dependencies (● [b93269f](https://github.com/zerocluster/httpbin/commit/b93269f), [61e5586](https://github.com/zerocluster/httpbin/commit/61e5586); 👬 zdm)
+
+Compare with the previous release: [v1.12.5...v1.12.6](https://github.com/zerocluster/httpbin/compare/v1.12.5...v1.12.6)
+
 ### v1.12.5 (2026-11-22)
 
 **Other changes**:
