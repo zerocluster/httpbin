@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.12.7 (2026-11-25)
+
+**Bug fixes**:
+
+- \[PATCH] fix: use start command in development script (● [8ec89a5](https://github.com/zerocluster/httpbin/commit/8ec89a5); 👬 zdm)
+
+**Other changes**:
+
+- chore(deps): update locked dependencies (● [c99f523](https://github.com/zerocluster/httpbin/commit/c99f523); 👬 zdm)
+
+Compare with the previous release: [v1.12.6...v1.12.7](https://github.com/zerocluster/httpbin/compare/v1.12.6...v1.12.7)
+
 ### v1.12.6 (2026-11-24)
 
 **Bug fixes**:
